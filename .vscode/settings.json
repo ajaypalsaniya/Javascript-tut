@@ -1,0 +1,21 @@
+{
+  "editor.fontSize": 15,
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.mouseWheelZoom": true,
+  "window.zoomLevel": 1,
+  "editor.fontFamily": "Corbal,Cambria ,Courier New ,Segoe UI,Lucida Console,Sitka,Gabriola",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tokenColorCustomizations": {
+    "semanticHighlighting": true
+  },
+
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#112c2c",
+    "activityBar.border": "#5afcf4",
+    "activityBarBadge.background": "#c3e992",
+    "activityBar.foreground": "#5afcf4",
+    "statusBar.background": "#084d49"
+  }
+}
